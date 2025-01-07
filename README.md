@@ -57,7 +57,7 @@ We get the total amount as well as an option to delete the unwanted product by c
 
 Proceeding to the checkout page we get to add our address and a payment gateway stripe- 
 
-![Uploading image.png…]()
+
 
 
 
