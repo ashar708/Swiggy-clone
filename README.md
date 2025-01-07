@@ -94,10 +94,36 @@ Clicking on the track order button in the users order page we can get the curren
 
 
 
+## Admin Panel Page - 
+
+It has 3 pages the add items, list items, and the orders for the users - 
+
+### Add items Page - 
+
+![image](https://github.com/user-attachments/assets/3a283280-c276-4eb9-923f-cdac1eae868f)
+
+So we can upload a product by giving them the required fields in the form. 
+
+### List Items Page - 
+
+![image](https://github.com/user-attachments/assets/cd17ecbb-6dcb-4984-904c-d6751d9b72a6)
+
+
+This page lists all the items present in the database and we can remove an item which is unwanted as well.
+
+
+### The orders Page - 
+
+![image](https://github.com/user-attachments/assets/49c76fab-d8b7-45b4-be99-a6f3b82309d5)
+
+
+It recieves the orders placed by users and get update the status of the orders.
 
 
 
 
+
+Thank you for giving your time!!!!
 
 
 
