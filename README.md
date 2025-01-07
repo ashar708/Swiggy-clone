@@ -53,9 +53,17 @@ If we go to the cart page by clicking the bag icon in the header section we can 
 
 We get the total amount as well as an option to delete the unwanted product by clicking the cross icon beside each product - 
 
-![image](https://github.com/user-attachments/assets/50fd3c7c-5dd3-4185-97dc-38da7c0b1aef)
 
 Proceeding to the checkout page we get to add our address and a payment gateway stripe- 
+
+![image](https://github.com/user-attachments/assets/50fd3c7c-5dd3-4185-97dc-38da7c0b1aef)
+
+We can do the payment via the Stripe payment gateway - 
+
+![image](https://github.com/user-attachments/assets/ea4ef848-41b3-4644-a29e-5d69b0bc5ea1)
+
+
+
 
 
 
