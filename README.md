@@ -38,9 +38,31 @@ Clicking on a particular category of food displays those food items but by defau
 
 ![image](https://github.com/user-attachments/assets/9a77d5d3-f1d2-4236-8bad-765df9da349c)
 
-If we click on a particular category it gives us that category's items - 
+If we click on a particular category it gives us that category items - 
+
+![image](https://github.com/user-attachments/assets/19fe12da-044b-44d1-889a-e789d2d39c04)
+
+
+We can add the food items in the cart from the home page by clicking on the + and - buttons.
+
+![image](https://github.com/user-attachments/assets/0c9bf68d-d271-4ce8-93a3-88e819182346)
+
+If we go to the cart page by clicking the bag icon in the header section we can get to see the cart products - 
+
+![image](https://github.com/user-attachments/assets/e8c0817c-ac18-4e8e-ad5b-76a367d9fcfc)
+
+We get the total amount as well as an option to delete the unwanted product by clicking the cross icon beside each product - 
+
+![image](https://github.com/user-attachments/assets/50fd3c7c-5dd3-4185-97dc-38da7c0b1aef)
+
+Proceeding to the checkout page we get to add our address and a payment gateway stripe- 
 
 ![Uploading image.png…]()
+
+
+
+
+
 
 
 
