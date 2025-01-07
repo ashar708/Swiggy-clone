@@ -66,6 +66,31 @@ We can do the payment via the Stripe payment gateway -
 
 
 
+It gets redirected to the Order page - 
+
+![image](https://github.com/user-attachments/assets/edd7121e-bb0d-4fb6-a16d-04a00e59b847)
+
+It goes to the admin panel on success so that the admin can update the food tracking  system.
+
+So admin can update the tracking by choosing any three of the scenarios - 
+
+1. Food Processing
+2. Out for Delivery
+3. Delivered
+
+
+After that in the orders page the user can see the status of the order - 
+
+For example currently the admin changed the status to Our for delivery - 
+
+![image](https://github.com/user-attachments/assets/be4bb3ca-3834-420d-a7f5-488ddc336daf)
+
+
+Clicking on the track order button in the users order page we can get the current status of the order - 
+
+![image](https://github.com/user-attachments/assets/94015693-6693-4143-b991-4c967951afd1)
+
+
 
 
 
